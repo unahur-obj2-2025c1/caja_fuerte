@@ -1,0 +1,10 @@
+NOTAS.
+-----
+
+Escenario 1: Caja abierta al inicio
+
+Dado que la caja fuerte ha sido recién creada.
+Entonces debe estar en estado abierta.
+
+BDD -> Criterios de aceptación (Given-When-Then)
+TDD -> Código
